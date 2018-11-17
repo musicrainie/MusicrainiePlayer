@@ -1,1 +1,1 @@
-# MusicrainieSequencePlayer
+# msc: MusicrainieSequencePlayer
